@@ -12,6 +12,8 @@ email: zack@zackjones.net
 twitter_username: https://twitter.com/weatwagon
 github_username:  https://github.com/Weatwagon
 linkedin_username:  https://www.linkedin.com/in/zachary-l-jones/
+isntagram_username:  https://www.instagram.com/weatwagon/
+facebook_username:  https://www.facebook.com/weatwagon
 #gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
